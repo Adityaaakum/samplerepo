@@ -1,6 +1,13 @@
 git init-> add git repo
 git status->check local repo status
 git commit -m-> for commit in local repo
+
 ----------------------------------------------------------------------
+git private branch1
+here we will make changes and it will not be present to main or privatebranch2
+
+
+--------------------------------------------------------------------------------
 git private branch2
 here we will make changes that is present only to private branch 2
+
