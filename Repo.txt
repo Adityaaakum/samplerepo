@@ -1,0 +1,2 @@
+git init-> add git repo
+git status->check local repo status
