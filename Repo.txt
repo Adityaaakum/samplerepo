@@ -1,2 +1,3 @@
 git init-> add git repo
 git status->check local repo status
+git commit -m-> for commit in local repo
